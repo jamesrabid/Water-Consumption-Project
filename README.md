@@ -9,7 +9,7 @@ Chart Demonstrations:
 - Lowest Water Consumption
 - Per Capita Water Consumption
 - Correlation Chart Between Rainfall Impact and Water Scarcity
-- Correlation Chart Between Groundwater Dpletion Rate and Rainfall Impact
+- Correlation Chart Between Groundwater Dpletion Rate and Water Scarcity
 
 ## Total Consumption Per Year in Liters (each value is 1,000 liters)
 <img width="600" height="500" alt="WaterConsMap4" src="https://github.com/user-attachments/assets/3250373a-2003-4f7b-9b4a-066fadf4f562" />
