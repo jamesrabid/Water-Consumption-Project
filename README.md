@@ -1,7 +1,7 @@
 # Water-Consumption-Project
 The change in water consumption by country from 2000-2025
 
-<img width="2328" height="1800" alt="WaterConsMap4" src="https://github.com/user-attachments/assets/3250373a-2003-4f7b-9b4a-066fadf4f562" />
+<img width="1200" height="1000" alt="WaterConsMap4" src="https://github.com/user-attachments/assets/3250373a-2003-4f7b-9b4a-066fadf4f562" />
 
 -
 -
