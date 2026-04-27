@@ -1,8 +1,15 @@
 # Water-Consumption-Project
 The change in water consumption by country from 2000-2025
 
+## Overview
+While the primary focus is around total and per capita water consumption, we will also be demonstrating how water scarcity, rainfall impact, and groundwater depletion rate also correlate together as well.
 
-
+Chart Demonstrations: 
+- Total Water Consumption
+- Lowest Water Consumption
+- Per Capita Water Consumption
+- Correlation Chart Between Rainfall Impact and Water Scarcity
+- Correlation Chart Between Groundwater Dpletion Rate and Rainfall Impact
 
 ## Total Consumption Per Year in Liters (each value is 1,000 liters)
 <img width="600" height="500" alt="WaterConsMap4" src="https://github.com/user-attachments/assets/3250373a-2003-4f7b-9b4a-066fadf4f562" />
