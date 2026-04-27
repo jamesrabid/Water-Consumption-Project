@@ -19,7 +19,7 @@ The change in water consumption by country from 2000-2025
 - South Korea's is exponentially low due to its practically non existent agricultural sector. Most of their food is imported. Their population is also much lower in comparison to the countries on the list, with only 51 million people.
 
 
-
+## Per Capita Water Consumption
 <img width="2328" height="1800" alt="PerCapitaWaterCons" src="https://github.com/user-attachments/assets/55856dbf-d982-4260-8f25-9a17dec5e88b" />
 
 - While the United States remains the largest consumer per capita, Canada has made its appearance in this project with second place on per capita numbers. Canada has a robust energy production sector; especially thermo power generation. Its agriculutral sector is also very large however as a result of a small population, and large amount of land.
@@ -28,13 +28,13 @@ The change in water consumption by country from 2000-2025
 
 
 
-
+## Comparing Rainfall Impact and Water Scarcity 
 <img width="2328" height="1800" alt="RainfallImpactScarcity" src="https://github.com/user-attachments/assets/82d52223-4519-4185-92be-b909758fa6ec" />
 
 - The chart shows a clear correlation with rainfall impact and water scarcity. The critical state having higher rainfall impact than high scarcity level is due to poor infrastructure and large imports and failure to store water correctly.
 
 
-
+## Comparing Groundwater Depletion Rate and Water Scarcity
 <img width="2328" height="1800" alt="Groundwaterdepletionscarcity" src="https://github.com/user-attachments/assets/cb895156-ac6d-4bbd-95d5-bd4e39d9cceb" />
 
 - Ground water depletion rate is defined as reduction of water stored in aquifers, which usually increase due to rainfall.
