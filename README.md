@@ -50,6 +50,7 @@ Chart Demonstrations:
 - There is a direct correlation between the two.
 
 
+### Thank you for viewing my presentation!
 
 
 
